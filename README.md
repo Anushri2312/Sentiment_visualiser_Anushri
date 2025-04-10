@@ -35,7 +35,7 @@ A simple yet powerful tool that performs sentiment analysis on customer product 
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/sentiment-visualizer-anushri.git cd Sentiment-visualiser-Anushri
+git clone https://github.com/Anushri2312/Sentiment_visualiser_Anushri.git cd Sentiment-visualiser-Anushri
 
 
 2. Install dependencies:
