@@ -1,0 +1,6 @@
+The following needs to be installed to run the code:
+
+streamlit
+pandas
+textblob
+plotly

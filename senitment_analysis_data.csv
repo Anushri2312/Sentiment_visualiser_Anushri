@@ -1,0 +1,12 @@
+Review,Product,Rating,Sentiment
+"Absolutely love the design and quality!",Smartwatch,5,Positive
+"Battery life is decent but could be better.",Smartwatch,3,Neutral
+"The app keeps crashing. Not happy.",Mobile App,1,Negative
+"Customer service was really helpful.",Support,4,Positive
+"Expected faster delivery. Took too long.",Delivery,2,Negative
+"The interface is clean and easy to use.",Web App,5,Positive
+"Colors are too dull on this model.",Smart TV,2,Negative
+"Very satisfied with the purchase!",Laptop,5,Positive
+"Average performance. Not bad.",Tablet,3,Neutral
+"Broken item received. Extremely disappointed.",Headphones,1,Negative
+"Easy checkout process and fast delivery.",E-commerce,4,Positive
