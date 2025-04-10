@@ -50,7 +50,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try the live app](https://sentiment-visualiser.streamlit.app)  
+🔗 [Click here to try the live app](https://sentiment-visualizer.streamlit.app/)  
 ---
 
 ## 📧 Contact
